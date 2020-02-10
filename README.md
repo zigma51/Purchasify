@@ -1,3 +1,3 @@
 # Purchasify
 
-An exommerce website powered by ML and AI
+An ecommerce website powered by ML and AI
